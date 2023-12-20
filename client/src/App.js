@@ -3,6 +3,7 @@ import ApolloClient from 'apollo-boost';
 import { ApolloProvider } from 'react-apollo';
 
 
+// updating the bookstore version to v2
 //components 
 import BookList from './components/BookList';
 import AddBook from './components/AddBook';
